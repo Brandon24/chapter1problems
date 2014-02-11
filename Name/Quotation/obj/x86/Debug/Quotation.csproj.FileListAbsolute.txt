@@ -1,1 +1,6 @@
 C:\Users\Eahscs\Documents\GitHub\Name\Quotation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\chapter1problems\Name\Quotation\bin\Debug\Quotation.exe
+C:\Users\eahscs\Documents\GitHub\chapter1problems\Name\Quotation\bin\Debug\Quotation.pdb
+C:\Users\eahscs\Documents\GitHub\chapter1problems\Name\Quotation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\chapter1problems\Name\Quotation\obj\x86\Debug\Quotation.exe
+C:\Users\eahscs\Documents\GitHub\chapter1problems\Name\Quotation\obj\x86\Debug\Quotation.pdb

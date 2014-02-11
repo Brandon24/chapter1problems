@@ -5,3 +5,6 @@ C:\Users\Eahscs\Documents\GitHub\Name\Tree\obj\x86\Debug\Tree.exe
 C:\Users\Eahscs\Documents\GitHub\Name\Tree\obj\x86\Debug\Tree.pdb
 C:\Users\Eahscs\Documents\GitHub\chapter1problems\Name\Tree\obj\x86\Debug\Tree.exe
 C:\Users\Eahscs\Documents\GitHub\chapter1problems\Name\Tree\obj\x86\Debug\Tree.pdb
+C:\Users\eahscs\Documents\GitHub\chapter1problems\Name\Tree\bin\Debug\Tree.exe
+C:\Users\eahscs\Documents\GitHub\chapter1problems\Name\Tree\bin\Debug\Tree.pdb
+C:\Users\eahscs\Documents\GitHub\chapter1problems\Name\Tree\obj\x86\Debug\ResolveAssemblyReference.cache
